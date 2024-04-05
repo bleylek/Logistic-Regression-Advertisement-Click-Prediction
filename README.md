@@ -19,7 +19,7 @@ The dataset includes the following attributes, providing a comprehensive view of
 - Timestamp: The time at which the consumer either clicked on the ad or closed the window.
 - Clicked on Ad: A binary outcome (1 for clicked, 0 for not clicked) indicating whether the ad was clicked.
 
-Technologies Used
+Technologies Used:
 
 This project leverages a range of technologies and libraries within the Python ecosystem for data processing, analysis, and machine learning. Below is a breakdown of the key technologies utilized:
 
